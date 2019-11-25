@@ -23,11 +23,11 @@
     <parent>
         <groupId>com.lodsve</groupId>
         <artifactId>lodsve-parent</artifactId>
-        <version>2</version>
+        <version>3</version>
     </parent>
 
     <artifactId>lodsve-dependencies</artifactId>
-    <version>1</version>
+    <version>2</version>
     <packaging>pom</packaging>
     <name>lodsve dependencies</name>
     <description>Lodsve Dependencies Management</description>
