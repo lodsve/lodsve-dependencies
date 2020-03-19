@@ -1,5 +1,5 @@
 <!--
-  ~ Copyright (C) 2019 Sun.Hao(https://www.crazy-coder.cn/)
+  ~ Copyright (C) 2020 Sun.Hao(https://www.crazy-coder.cn/)
   ~
   ~ This program is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
@@ -23,11 +23,11 @@
     <parent>
         <groupId>com.lodsve</groupId>
         <artifactId>lodsve-parent</artifactId>
-        <version>3</version>
+        <version>5</version>
     </parent>
 
     <artifactId>lodsve-dependencies</artifactId>
-    <version>2</version>
+    <version>3</version>
     <packaging>pom</packaging>
     <name>lodsve dependencies</name>
     <description>Lodsve Dependencies Management</description>
@@ -108,6 +108,8 @@
         <groovy.version>2.4.7</groovy.version>
         <jruby.version>1.7.26</jruby.version>
         <jyphon.version>2.7.1b3</jyphon.version>
+
+        <github.repository.url>https://maven.pkg.github.com/lodsve/lodsve-dependencies</github.repository.url>
     </properties>
 
     <dependencyManagement>
